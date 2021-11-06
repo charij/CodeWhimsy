@@ -1,0 +1,16 @@
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\BirthdayCakeCandles.exe
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\BirthdayCakeCandles.deps.json
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\BirthdayCakeCandles.runtimeconfig.dev.json
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\BirthdayCakeCandles.dll
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\ref\BirthdayCakeCandles.dll
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\bin\Debug\net5.0\BirthdayCakeCandles.pdb
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.csproj.AssemblyReference.cache
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.dll
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\ref\BirthdayCakeCandles.dll
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.pdb
+C:\Users\pchar\source\repos\MedianUpdates\BirthdayCakeCandles\obj\Debug\net5.0\BirthdayCakeCandles.genruntimeconfig.cache

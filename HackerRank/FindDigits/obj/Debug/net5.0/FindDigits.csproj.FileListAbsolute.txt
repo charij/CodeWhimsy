@@ -1,0 +1,16 @@
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\FindDigits.exe
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\FindDigits.deps.json
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\FindDigits.runtimeconfig.json
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\FindDigits.runtimeconfig.dev.json
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\FindDigits.dll
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\ref\FindDigits.dll
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\bin\Debug\net5.0\FindDigits.pdb
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.csproj.AssemblyReference.cache
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.AssemblyInfoInputs.cache
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.AssemblyInfo.cs
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.csproj.CoreCompileInputs.cache
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.dll
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\ref\FindDigits.dll
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.pdb
+C:\Users\pchar\source\repos\MedianUpdates\FindDigits\obj\Debug\net5.0\FindDigits.genruntimeconfig.cache
