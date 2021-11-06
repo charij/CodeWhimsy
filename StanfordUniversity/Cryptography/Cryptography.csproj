@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Cryptography</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="BlockCiphers\" />
+    <Folder Include="MessageIntegrity\" />
+    <Folder Include="AuthenticatedEncryption\" />
+    <Folder Include="PublicKeyEncryption\" />
+    <Folder Include="BasicKeyExchange\" />
+    <Folder Include="StreamCiphers\" />
+  </ItemGroup>
+
+</Project>
