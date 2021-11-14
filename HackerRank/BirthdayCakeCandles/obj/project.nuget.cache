@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "3izcjHAunRFbvtTQB0CtNj49+4mE1Vf2Y7HI2JIXX1T9dPlulsZMwdQA+RzF/fmzYffv0G6cv3qGVIkQj9JeMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
-=======
-  "dgSpecHash": "ZcDZCCHswa6euux4M6UkRbAH5dsgsMfDkGvWlOzYBEtsdvf2l7v0mjJEIvUp0ixE4JHZ8Vr6ANa9UXLYVyb1EQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
->>>>>>> eedf446bf5935853537fa5940b9cc0b4e3c21260
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\BirthdayCakeCandles\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

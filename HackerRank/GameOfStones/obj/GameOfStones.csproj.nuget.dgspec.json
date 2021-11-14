@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj": {}
   },
   "projects": {
@@ -13,26 +12,13 @@
         "projectPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj",
         "packagesPath": "C:\\Users\\pchar\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\GameOfStones\\obj\\",
-=======
-    "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj",
-        "projectName": "GameOfStones",
-        "projectPath": "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj",
-        "packagesPath": "C:\\Users\\charijpx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfStones\\obj\\",
->>>>>>> eedf446bf5935853537fa5940b9cc0b4e3c21260
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\charijpx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pchar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -41,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/pdjaRdcy5qqJu74cSbZhJAiMcsMW4wFmRyMl5PegdHfJRz2cx7/api": {}
         },
         "frameworks": {
           "net5.0": {
@@ -91,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

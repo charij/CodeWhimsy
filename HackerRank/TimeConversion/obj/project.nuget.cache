@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "UFzTpDSuUtZIFplQ+rpmH8PJ80N3hJ9XRWyR/5TTnlFL/DYfGLlOqPDzUfCSKSg3kAg6RyzVDonCd9JFfJIJoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\TimeConversion\\TimeConversion.csproj",
-=======
-  "dgSpecHash": "Ik/LNL5cHbx87DZdxOW/342uCjx9VzKjn+UqKkXo/MdjkQN+grvF54a5itfkTHsOrwIZLZqq0zu9AWadVkeuRw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\charijpx\\Source\\Repos\\CodeWhimsy\\HackerRank\\TimeConversion\\TimeConversion.csproj",
->>>>>>> eedf446bf5935853537fa5940b9cc0b4e3c21260
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\TimeConversion\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
