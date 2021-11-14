@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ti4Yn/0iLWv/u2Icp3eJk7bp0zzRRaImuNiGuXv87Yk+sTeM2rMLiv9U/UVcBeGZxnAtwoPFGaYI3h91A4Vmw==",
+  "dgSpecHash": "YJGtqtIcFnPbz3bmGR/FQv6HUeTbaQxlaCdNMB5oXAqFBBV2sGuCGMMcXKtcMQPqabAtqHif+DyU3kKz6NAJNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\HackerRankInAString\\HackerRankInAString.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\HackerRankInAString\\HackerRankInAString.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

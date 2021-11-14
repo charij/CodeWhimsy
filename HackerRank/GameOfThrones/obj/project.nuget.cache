@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymH8RBwavar/hQ2x5kj1qmotu2I3e0tMxc/bHGU8v9s0y/EHQKMqRTzxsQ1RS5eHE2dvm2IhM4oqlSq6cv941g==",
+  "dgSpecHash": "dW7M2js0idC+9jWRxD6kPAFw7tHCccz5DzVfvqIhSvtxfn1+nAlzxOf8BHBoFIS2/Ju5cbwHJJp2BhWwthdP+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfThrones\\GameOfThrones.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\GameOfThrones\\GameOfThrones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

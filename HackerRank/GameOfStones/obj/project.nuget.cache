@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+EQi9/4GBX5vXN/yEPkhD9YoeTcYThcqV7zOLfzwTRNeW7snOcnid/ssAu6VIBJ/6TY5vcKKTpdvda0ra6dKQ==",
+  "dgSpecHash": "/RAJdP6SNwkP3dhnYNPwQCSoVJoq46Oyf8z61YrWgJRWdHWEG3+W9EN4hFTMc/LMf/TqDpNvs9shVte4n46AgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\GameOfStones\\GameOfStones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

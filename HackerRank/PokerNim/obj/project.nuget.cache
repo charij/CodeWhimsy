@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CC7xTjWdp/WZQzyJ8y5K+wexJT86swISnkvRn6IBgdWY6H7dzZvYCWl40Zdw6WH0jzL0vu7dyUNUKQTVx6+6yw==",
+  "dgSpecHash": "yYtm7dPBE7HZvrK1CXCdHqFwbKoS1mIa8iVCa4NMoBidTgdnr+ny9J19JEn0GWgCeFBNbKnyhKjImRcQTmmNCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\PokerNim\\PokerNim.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\PokerNim\\PokerNim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

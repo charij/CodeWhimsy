@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IngqwQnG05Wn+LvHafgA4+rP+9K4peTXWsnPj7T8oiSfzfSOcTkk9P8pua1/hNyYDxJSCmJjNFCWYmUg97qmg==",
+  "dgSpecHash": "WlDks6ldQE1SVkOTS6QbMiOLBE8gaaNb84ewl942Flh2H3ya69m4R7gBomgtWLpA9VXT0KPRgVpxwMI6ADHVjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\MakingAnagrams\\MakingAnagrams.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\MakingAnagrams\\MakingAnagrams.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

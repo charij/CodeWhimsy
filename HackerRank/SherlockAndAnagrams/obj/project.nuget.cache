@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w+u7BL133x0w1iJeclYBMtBnzR5ofGiulBsc8D6wAogAv7rGLRsz80MnQKscqx1qr/v9x9HiHORE4aJLFFZoww==",
+  "dgSpecHash": "fN4wQbOKP5+6H/MP/Npn/rf9WdVGUiPuhrwgf+riuYb+vf2SX/QAlDQYm6xGS5rwsOpyMRiyfrRolM6HlRPcSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

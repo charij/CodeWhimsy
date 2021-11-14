@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z42rdTbUCOovxBr23pNBRWykXmuHn6r0heP0CFTF/eAnMJtCcQ+2R7nXru1UFJYNCW5XT007Zr1fd6vC2QOfRA==",
+  "dgSpecHash": "TEkCOXO5AtjN78EjkIfMnVY38btYbZ4saP6djmFfLwZ/C+PzGhErhru+IVTZ8VyRxmoPiNHPP/Gq9UHow11GDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\MedianUpdates\\MedianUpdates.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\MedianUpdates\\MedianUpdates.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

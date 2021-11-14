@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj": {}
+    "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj": {
+    "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj",
+        "projectUniqueName": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj",
         "projectName": "NimbleGame",
-        "projectPath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj",
+        "projectPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj",
         "packagesPath": "C:\\Users\\pchar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\NimbleGame\\obj\\",
+        "outputPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

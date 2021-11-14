@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6TtsTS3So5hy9KjctsAMVlHeY+K0wff3r0EceSoeGlXvfuGfxNcZd01wIamdrhuwCmELKMNDw7yY+LSOxCPt5Q==",
+  "dgSpecHash": "aiF7XNQ5ysW4soRe51HUHcgM+WbD0tUoa14ANQeAVs/EAcJyn6DHgO/O/lSVMQnEAkJZ4bes8RZWbBqLClBFag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
+  "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj": {}
+    "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj": {
+    "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj",
+        "projectUniqueName": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj",
         "projectName": "SherlockAndAnagrams",
-        "projectPath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj",
+        "projectPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\SherlockAndAnagrams.csproj",
         "packagesPath": "C:\\Users\\pchar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\obj\\",
+        "outputPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SherlockAndAnagrams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

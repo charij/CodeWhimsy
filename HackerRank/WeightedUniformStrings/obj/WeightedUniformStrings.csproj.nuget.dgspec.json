@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj": {}
+    "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj": {
+    "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
+        "projectUniqueName": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
         "projectName": "WeightedUniformStrings",
-        "projectPath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
+        "projectPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\WeightedUniformStrings.csproj",
         "packagesPath": "C:\\Users\\pchar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pchar\\Source\\Repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\obj\\",
+        "outputPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\WeightedUniformStrings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
