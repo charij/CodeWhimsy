@@ -4,7 +4,7 @@
 
     class Solution
     {
-        public static void Main()
+        public static void MainRun()
         {
             int t = int.Parse(Console.ReadLine());
             for (int tItr = 0; tItr < t; tItr++)
