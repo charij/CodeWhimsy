@@ -31,7 +31,7 @@ namespace StringFunctionCalculation
             Console.SetIn(File.OpenText(inputFile));
             Console.SetOut(stringWriter);
 
-            Solution.MainRun();
+            Node.MainRun();
 
             var outputLines = stringWriter.ToString().Trim().Split(Environment.NewLine);
             for (var i = 0; i < outputLines.Length; i++)
