@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctionCalculation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceEquation", "SequenceEquation\SequenceEquation.csproj", "{65DEDDDB-54DB-422C-B7FC-0DD98C4EEC13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulTriplets", "BeautifulTriplets\BeautifulTriplets.csproj", "{5E9599E9-5757-4B4B-A430-B8206303C08B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{65DEDDDB-54DB-422C-B7FC-0DD98C4EEC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65DEDDDB-54DB-422C-B7FC-0DD98C4EEC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65DEDDDB-54DB-422C-B7FC-0DD98C4EEC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9599E9-5757-4B4B-A430-B8206303C08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9599E9-5757-4B4B-A430-B8206303C08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9599E9-5757-4B4B-A430-B8206303C08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9599E9-5757-4B4B-A430-B8206303C08B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -245,6 +251,7 @@ Global
 		{2D9ECAC2-D290-4F1D-87F8-3F881D9E2EF1} = {8EF5C2B3-192E-4A33-B468-14E2ED794A48}
 		{BE38B7DD-A6DE-47EA-9F6E-C9AA699C736E} = {2D9ECAC2-D290-4F1D-87F8-3F881D9E2EF1}
 		{65DEDDDB-54DB-422C-B7FC-0DD98C4EEC13} = {D56E4D3E-0633-48F2-BD99-540DA96A218B}
+		{5E9599E9-5757-4B4B-A430-B8206303C08B} = {D56E4D3E-0633-48F2-BD99-540DA96A218B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {347C0EDA-D0E5-43CE-9795-8DE761FB6BDD}
