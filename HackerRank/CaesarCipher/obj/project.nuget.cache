@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VmLkYJBLFZ05RDwoZI1dXokh6JEb/8RjSSoo6odJ7oC+hYgc5rxhAQ4UdYWYpE7NaNQjpMli19ZX5DuS37OHWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\CaesarCipher\\CaesarCipher.csproj",
+=======
+  "dgSpecHash": "G1kZskd5EpmObC3ZOc8y1kCsoe7UsV1ansSy+TLT6NIh8O2c1wY9Ss1BXt1Dj/CwPKdmhc2jVjYt69F+nFmSyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\CaesarCipher\\CaesarCipher.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EUnN27Tg7lwjcl2ozD00e+1HxRNYxAGLRVIccq/yKns7YgxwupluoR/vvbEUUy7/im72Vy6nGixOw+I/eNkDtQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\FindDigits\\FindDigits.csproj",
+=======
+  "dgSpecHash": "GGTxny06hyHPulmP49YOHbcbcsLlm0qGuETgKXBMIcD1Ty9kfYUqdp6eJmaWKxNzFsy/3rLnXgMr6vNsUx1dXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\FindDigits\\FindDigits.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [],
   "logs": []
 }

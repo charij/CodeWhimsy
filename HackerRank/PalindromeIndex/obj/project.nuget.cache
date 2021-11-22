@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "UIBkg2PqXvEE0EJpIPYKf6POkKgFWwc+Eq1jlMCQF6FTbHn3A9uzYt9RePdJPkkcmbZ7qxls3vntfcS1ePXF9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\PalindromeIndex\\PalindromeIndex.csproj",
+=======
+  "dgSpecHash": "nMw7KCLtQyQLixLMBOd3vE1tJA2lMJpzjbRhHkF+d7x4YgqumVDLYnBxUG2cE9EXNO5gK/O82SBWyfu4jdZK5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\PalindromeIndex\\PalindromeIndex.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

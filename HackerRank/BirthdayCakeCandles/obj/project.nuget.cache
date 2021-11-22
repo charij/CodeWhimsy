@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3izcjHAunRFbvtTQB0CtNj49+4mE1Vf2Y7HI2JIXX1T9dPlulsZMwdQA+RzF/fmzYffv0G6cv3qGVIkQj9JeMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+=======
+  "dgSpecHash": "PgaaDwiJYx3Sj1WhAzjcb+vUET1DFTbNPwBXl9KFQJSlWPvcHn081Qh3igerz1TYdCNRmA67o5gb6sXFQa8FnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [],
   "logs": []
 }

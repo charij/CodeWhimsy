@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "7RREFln4TvgY+IcxznPDPGOEW7wDw2eJqqWZeGsP7VKjs/vDVDxV3mBagEjRMeepknE4GPYT1ncLEB+NnPoSOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj",
+=======
+  "dgSpecHash": "VCWdHAZfeZhxsor6oAdkHEVKlbfG58FHi+asMeZ8Pq5j213xV+ALKbUtp0+yIWs1GpYwDjtuhytTX3a80xKGuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\NimbleGame\\NimbleGame.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

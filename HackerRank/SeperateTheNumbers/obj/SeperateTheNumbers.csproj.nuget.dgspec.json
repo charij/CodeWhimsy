@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\SeperateTheNumbers.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\SeperateTheNumbers.csproj",
         "packagesPath": "C:\\Users\\pchar\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\obj\\",
+=======
+    "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\SeperateTheNumbers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\SeperateTheNumbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\SeperateTheNumbers.csproj",
+        "projectName": "SeperateTheNumbers",
+        "projectPath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\SeperateTheNumbers.csproj",
+        "packagesPath": "C:\\Users\\charijpx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\SeperateTheNumbers\\obj\\",
+>>>>>>> Updates
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

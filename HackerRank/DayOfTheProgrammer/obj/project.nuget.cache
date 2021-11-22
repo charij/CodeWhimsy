@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vl+4guNXu2PKs/S+wu4hiztNacLcMtuFVyOw9ZeaPYZII9uwYtZDhBOA/qm77zlhlzfedH6CeJpOgKxHj7cxpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\DayOfTheProgrammer\\DayOfTheProgrammer.csproj",
+=======
+  "dgSpecHash": "BAVWDr2q7CxEM18wkbRxj9mTvpaGEihM8b/RfToMz9Ijyqmtv9gkVkwGMGBjY2tBFe8JV7pJIRGi8piOacV9/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\DayOfTheProgrammer\\DayOfTheProgrammer.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

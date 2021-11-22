@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "anI1yxE7qXi6Z45r5NvYUVjgR76PKoYK2Zz2f2BEbSC3OP3c7e65gWSDlN2NTCif/7AmGqClQNf5cvfIeBeH+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\pchar\\source\\repos\\CodeWhimsy\\HackerRank\\TheHurdleRace\\TheHurdleRace.csproj",
+=======
+  "dgSpecHash": "1G6Tzjamvod3m+kJzmJ3s+Gn1pOMGCK3QXm66r5sGE6BnHsO3jSgCcgjQfResuG/slLGTr9nSiohLAJgYQKIVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charijpx\\source\\repos\\CodeWhimsy\\HackerRank\\TheHurdleRace\\TheHurdleRace.csproj",
+>>>>>>> Updates
   "expectedPackageFiles": [
     "C:\\Users\\pchar\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pchar\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
