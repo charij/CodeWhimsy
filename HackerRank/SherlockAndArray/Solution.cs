@@ -1,0 +1,6 @@
+﻿namespace SherlockAndArray
+{
+    class Solution
+    {
+    }
+}
